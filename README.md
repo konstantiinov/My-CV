@@ -1,0 +1,1 @@
+This repository was created for the purpose of storing the files for the task entitiled My-CV. In order to create responsive CV webpage , I have used HTML and CSS. I have also used a mobile-first approach.
